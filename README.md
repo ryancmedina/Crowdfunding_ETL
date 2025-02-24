@@ -3,7 +3,12 @@
 #### Ifrah
 #### Randall
 #### Ryan
+
 #### DU Data Analytics Project 2 | February 2025
+
+## Purpose
+
+Extract-transform-load ("ETL") mini project, which involved building an ETL pipeline with Python, Pandas and PostgresSQL. Through data transformation of Excel data in a Jupyter Notebook, four CSV files were created, which formed the basis for an Entity Relationship Diagram ("ERD") and table schema. Finally, the CSV file data was loaded into a Postgres SQL database.
 
 ## Summary of Instructions
 * Create the Category and Subcategory DataFrames
