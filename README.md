@@ -1,12 +1,9 @@
 # Crowdfunding_ETL
 
-#### Dotan Barak
-
-#### Ifrah
-
-#### Randall
-
-#### Ryan
+#### Ifrah Mohamed
+#### Randall Nelson
+#### Dotan Barak 
+#### Ryan Medina
 
 #### DU Data Analytics Project 2 | February 2025
 
