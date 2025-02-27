@@ -20,7 +20,7 @@ Extract-transform-load ("ETL") mini project, which involved building an ETL pipe
 ## Contents
 * README.md
 * ETL_Mini_Project_Starter_Code.ipynb
-* PgAdmin4_Database
+* crowdfunding_db
     * QuickDBD
     * Schema_crowdfunding_db.sql
     * Screenshot_SELECT * FROM category;
